@@ -6,6 +6,8 @@ def show_menu():
     print("4. Checkout")
     print("5. Exit")
 
+    #comment
+
 def get_products():
     return {
         "apple": 40.00,
